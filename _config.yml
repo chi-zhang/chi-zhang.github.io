@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chi Zhang"
   avatar           : "346174123.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Clinical Pharmacist at Renji Hospital of Shanghai Jiaotong University"
   location         : "Shanghai, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=u04_fZUAAAAJ&hl=en&authuser=1"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chi-zhang"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
