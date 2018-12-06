@@ -14,7 +14,7 @@ Education
   * GPA: 3.63/ 4.0 (top 1%)
 * M.S. in Pharmaceutics, Fudan University, 2011-2014    
   * Thesis: Brain-targeted nano-delivery system for treatment of Alzheimer’s disease
-  * Supervisor: Prof. Xinguo Jiang (Chief scientist of China 973 Program)
+  * Supervisor: Prof. Xinguo Jiang (Chief scientist of China 973 Program), 
                 Prof. Qizhi Zhang
   * GPA: 3.70/ 4.0 (top 1%)
 
@@ -50,7 +50,7 @@ Honours & Awards
 Funding
 ======
 * National Nature Science Foundation of China (NSFC) (No. 81502991，2015-2018): 
-  * Brain neuron-targeted rHDL nanoparticles in the therapy of Alzheimer’s disease 
+  Brain neuron-targeted rHDL nanoparticles in the therapy of Alzheimer’s disease 
 
 Publications
 ======
@@ -58,18 +58,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
