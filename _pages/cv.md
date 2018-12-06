@@ -11,19 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Pharmacy, West China School of Pharmacy, Sichuan University, 2007-2011
+  * GPA: 3.63/ 4.0 (top 1%)
+* M.S. in Pharmaceutics, Fudan University, 2011-2014    
+  * Thesis: Brain-targeted nano-delivery system for treatment of Alzheimer’s    disease
+  * Supervisor: Prof. Xinguo Jiang (Chief scientist of China 973 Program)
+                Prof. Qizhi Zhang
+  * GPA: 3.70/ 4.0 (top 1%)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2015-Now: Clinical Pharmacist  
+  * Renji Hospital, Shanghai Jiaotong University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2014-2015: Pharmacist
+  * Shanghai Children’s medical center, Shanghai Jiaotong University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
